@@ -1,0 +1,12 @@
+
+A1 - Original Dataset
+Accuracy: 99.12%
+Precision: 99.15%
+Recall: 99.02%
+F1: 99.07%
+
+A2 - Original + ArtAug
+Accuracy: 99.12%
+Precision: 99.15%
+Recall: 99.02%
+F1: 99.07%
